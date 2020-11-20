@@ -26,7 +26,7 @@ More about- https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 Write in your Git Bash the follow:
 
 ```
-$ git clone https://github.com/Reut-Maslansky/OOP-Ex1.git
+$ git clone https://github.com/Reut-Maslansky/Ariel-OOP--Ex1.git
 ```
 
 ### *Example of Weighted Graph:*
